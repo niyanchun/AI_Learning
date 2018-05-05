@@ -1,3 +1,3 @@
-# machine-learning-tutorials
+# My AI self-learning
 
-Collections of machine learning tutorials and Examples from Internet.
+Things about  my AI self-learning.
