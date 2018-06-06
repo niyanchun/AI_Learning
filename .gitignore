@@ -4,3 +4,4 @@ others
 *.vscode
 tags
 *.zip
+TimeSeries/stock_prediction_with_LSTM/Stocks/*
