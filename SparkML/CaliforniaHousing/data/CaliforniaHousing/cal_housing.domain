@@ -1,0 +1,9 @@
+longitude（经度）: continuous.
+latitude（维度）: continuous.
+housingMedianAge（房屋年龄中位数）: continuous.
+totalRooms（房屋总数）: continuous.
+totalBedrooms（卧室总数）: continuous.
+population（地区人口数）: continuous.
+households（家庭数量）: continuous.
+medianIncome（收入中位数）: continuous.
+medianHouseValue（房价中位数）: continuous.
