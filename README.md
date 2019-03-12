@@ -1,3 +1,3 @@
-# My AI self-learning
+# My AI self-study.
 
-Things about  my AI self-learning.
+My AI self-study notes.
